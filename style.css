@@ -1,0 +1,15 @@
+.main{
+     width:100%;
+     background-color: #ddd;
+     display: flex;
+}
+.left{
+	width: 30%;
+	border: 3px solid #2df;
+	background-color: blue;
+}
+.right{
+	width: 70%;
+	border: 3px solid #3cf;
+	background-color: pink;
+}
